@@ -3,7 +3,7 @@ Script php para gerar boletos através da API-boletobancario.com
 
 <b>Como usar:</b>
 
-Cadastre e gere o seu Token no link:<br/> 
+Cadastre-se e gere o seu Token no link:<br/> 
 https://sandbox.boletobancario.com/boletofacil/user/login.html para ambiente de testes <br/> https://www.boletobancario.com/boletofacil/user/login.html para ambiente de produção.
 
 Abra o arquivo "boletofacil.php" em seu editor preferido e prucure a seguinte linha:

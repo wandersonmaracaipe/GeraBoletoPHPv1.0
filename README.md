@@ -1,17 +1,19 @@
 # GeraBoletoPHPv1.0
 Script php para gera boletos através da API-boletobancario.com 
 
-
-Como usar:
+<b>Como usar:</b>
 
 Cadastre e gere o seu Token no link
 https://sandbox.boletobancario.com/boletofacil/user/login.html para ambiente de testes ou https://www.boletobancario.com/boletofacil/user/login.html para ambiente de produção.
 
 Abra o arquivo "boletofacil.php" em seu editor preferido e prucure a seguinte linha:
 
- function __construct($token, $sandbox = true) {
-        (...)
+ <pre>
+ function __construct($token, $sandbox = true) { 
+        (...)        
     }
+   </pre>  
+   
     
 "$sandbox = true" para ambiente de teste.
 "$sandbox = false" para ambiente de produção.

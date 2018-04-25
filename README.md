@@ -15,13 +15,15 @@ Abra o arquivo "boletofacil.php" em seu editor preferido e prucure a seguinte li
    </pre>  
    
     
-"$sandbox = true" para ambiente de teste.
+"$sandbox = true" para ambiente de teste.<br/>
 "$sandbox = false" para ambiente de produção.
 
 
 Abra o arquivo "geraBoleto.php" e prucure a seguinte linha:
 
+<pre>
 $boletoFacil = new BoletoFacil("COLE_SEU_TOKEN_AQUI");
+</pre>
 
 
 Dúvidas? Entre em contato via e-mail.

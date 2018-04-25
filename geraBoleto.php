@@ -30,7 +30,7 @@ if(isset($_POST['amount'])){
             //divide o valor total do boleto
             $calcValor = $valorFatura / $parcelamento;
 
-            $boletoFacil = new BoletoFacil("AE388035DEDDD47D4D1FB9902678CFF06DBC48A387C7879FD49BF0AD47B6AC24");
+            $boletoFacil = new BoletoFacil("COLE_SEU_TOKEN_AQUI");
             $boletoFacil->payerName = $nomePagador;
             $boletoFacil->payerCpfCnpj = $cpfCnpjPagador;
             $boletoFacil->payerEmail = $emailPagador;

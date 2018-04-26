@@ -28,7 +28,7 @@
       </div>
       <div class="modal-body">
           <div id="retorno"></div>
-        <form id="form">
+        <form id="form" autocomplete="off">
   <div class="form-group">
       <label for=""><b>Dados Pessoais</b></label>
   </div>

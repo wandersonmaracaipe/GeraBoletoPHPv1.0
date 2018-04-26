@@ -69,7 +69,7 @@
       </select>
     </div>
       <div class="form-group col-md-12">
-          <input type="email" class="form-control" id="description" placeholder="Descrição do Pedido">
+          <input type="text" class="form-control" id="description" placeholder="Descrição do Pedido">
       </div>
 
   </div>

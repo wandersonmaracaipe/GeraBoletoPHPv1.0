@@ -29,4 +29,4 @@ $boletoFacil = new BoletoFacil("COLE_SEU_TOKEN_AQUI");
 Dúvidas? Entre em contato via e-mail.
 
 Wanderson Maracaipe<br/>
-e-mail: wanderson@caolho.net
+e-mail: wandersonmaracaipe@hotmail.com
